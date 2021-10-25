@@ -1,2 +1,12 @@
-# hola, mi nombre en la web es **GKart**.
- actualmente trabajo en el desarrollo de android para dispositivos de la linea **Moto E5 y Moto E5+**, soy mantenedor de la ROM [BananaDroid](https://github.com/BananaDroid) para el Moto E5+, tambien trabajo en el proyecto [STK Latinoamérica](https://gitlab.com/stk-latam)
+
+[![GKart stats](https://github-readme-stats.vercel.app/api?username=GKart&show_icons=true&theme=dracula)](https://github.com/GKart/github-readme-stats)
+
+# hello, my name on the web is ** GKart **.
+   I am currently in the development of Android for devices of the ** Moto E5 and Moto E5 + ** line, I am an official maintainer of OrangeFox for the Huawei P8Lite [alice] and I am a maintainer of the ROM [BananaDroid](https://github.com/BananaDroid) for the Moto E5 +, I also work on the project [STK Latin America](https://gitlab.com/stk-latam)
+   
+## I work professionally with
+
+- Python
+
+## most used languages in this github
+![GKart Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GKart&theme=react&layout=compact&hide=HTML)
