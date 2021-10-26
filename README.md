@@ -10,3 +10,9 @@
 
 ## most used languages in this github
 ![GKart Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GKart&theme=react&layout=compact&hide=HTML)
+
+# Contact
+
+[Telegram](https://t.m/STKUser)
+[Facebook](https://www.facebook.com/gkart.stk)
+
