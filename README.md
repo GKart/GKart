@@ -1,18 +1,20 @@
+# Hi, I'm GKart.
 
-[![GKart stats](https://github-readme-stats.vercel.app/api?username=GKart&show_icons=true&theme=dracula)](https://github.com/GKart/github-readme-stats)
+I am a 20-year-old systems engineering student, I live in Argentina and my native language is Spanish but I have enough knowledge of English to be able to have a fluent conversation, in addition to my studies I am also an android ROM developer for the following devices:
 
-# hello, my name on the web is **GKart**.
-   I am currently in the development of Android for devices of the **Moto E5 and Moto E5+** line, I am an official maintainer of OrangeFox for the Huawei P8Lite [alice] and I am a maintainer of the ROM [BananaDroid](https://github.com/BananaDroid) for the Moto E5 +, I also work on the project [STK Latin America](https://gitlab.com/stk-latam)
-   
-## I work professionally with
+- **Motorola Moto E5+ [hannah, rhannah, ahannah]**
+- **Motorola Moto E5 [nora]**
+- **Samsung Galaxy A30 [a30]**
+- **Motorola Moto G5 [cedric]**
 
-- Python
+of which the first is the one to which I dedicate the most time, I feel the last one to which I spend the least
+I am also the official maintainer of BananaDroid for Motorola Moto E5+.
 
-## most used languages in this github
-![GKart Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GKart&theme=react&layout=compact&hide=HTML)
+In addition to Android development, I know some programming in Python and I plan to learn to program in C/C++ in the near future.
 
-# Contact
+you can contact me by:
 
-[Telegram](https://t.m/STKUser)   
-[Facebook](https://www.facebook.com/gkart.stk)
+- [Telegram](https://t.m/STKUser)
+- my email: 124253yyy@gmail.com
 
+Greetings.
