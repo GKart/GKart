@@ -3,7 +3,6 @@
 I am a 20-year-old systems engineering student, I live in Argentina and my native language is Spanish but I have enough knowledge of English to be able to have a fluent conversation, in addition to my studies I am also an android ROM developer for the following devices:
 
 - **Motorola Moto E5+ [hannah, rhannah, ahannah]**
-- **Motorola Moto E5 [nora]**
 - **Samsung Galaxy A30 [a30]**
 - **Motorola Moto G5 [cedric]**
 
