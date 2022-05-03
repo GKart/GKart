@@ -2,7 +2,12 @@
 
 I am a 20-year-old systems engineering student, I live in Argentina and my native language is Spanish but I have enough knowledge of English to be able to have a fluent conversation, in addition to my studies I am also an android ROM developer for the following devices:
 
-- **Samsung Galaxy A30 [a30]**
+- **Motorola Moto E5 Play [james]
+- **Motorola Moto E5 [nora]**
+- **Motorola Moto E5 Plus**
+    - **Motorola Moto E5 Plus MSM8917 [rhannah]
+    - **Motorola Moto E5 Plus MSM8937 [ahannah]**
+    - **Motorola Moto E5 Plus MSM8940 [hannah]**
 
 of which the first is the one to which I dedicate the most time, I feel the last one to which I spend the least
 I am also the official maintainer of BananaDroid for Motorola Moto E5+.
