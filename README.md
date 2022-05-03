@@ -5,7 +5,7 @@ I am a 20-year-old systems engineering student, I live in Argentina and my nativ
 - **Motorola Moto E5 Play [james]
 - **Motorola Moto E5 [nora]**
 - **Motorola Moto E5 Plus**
-    - **Motorola Moto E5 Plus MSM8917 [rhannah]
+    - **Motorola Moto E5 Plus MSM8917 [rhannah]**
     - **Motorola Moto E5 Plus MSM8937 [ahannah]**
     - **Motorola Moto E5 Plus MSM8940 [hannah]**
 
